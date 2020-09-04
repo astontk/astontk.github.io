@@ -4,7 +4,7 @@ Welcome to what will hopefully be a successfully operating webpage with stuff ab
 
 ## Some interesting facts about me...
 - I ride a Harley Davidson Street Bob
-- I have two Boston Terriers, Oreo & Harley (Yes, that's what we named him)
+- I have two Boston Terriers, Oreo & Harley (Yes, we named him after Harley-Davidson)
 - Junior ISAT major @ James Madison University
 - I am an Eagle Scout Recipient
 
