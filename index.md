@@ -1,6 +1,6 @@
 ## Tyler's Personal Website
 
-Welcome to what will hopefully be a successfully operating webpage with stuff about me! Stick around and have some *internet* cookies while you're here
+Welcome to what will hopefully be a successfully operating webpage with stuff about me! Stick around and have some cookies while you're here
 
 ### Markdown
 
