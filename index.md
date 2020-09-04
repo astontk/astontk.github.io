@@ -8,7 +8,7 @@ Some interesting facts about me...
 - Junior ISAT major @ James Madison University
 - I am an Eagle Scout Recipient
 
-![](IMG_1018.png)
+![](IMG_1018.PNG)
 
 ### Markdown
 
