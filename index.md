@@ -12,9 +12,11 @@ Welcome to what will hopefully be a successfully operating webpage with stuff ab
 
 ![](IMG_E1667.JPG)
 
-## Here's a picture of my pride and joy, my Harley.... and before you ask, yes it is FAST!
+## Here's some pictures of my pride and joy, my Harley.... and before you ask, yes it is FAST!
 
 ![](IMG_1534.JPG)
+
+![](DKWO5998.JPG)
 
 ## Programming Successes!
 All of my future programming work / code will be showcased here
