@@ -16,6 +16,10 @@ Welcome to what will hopefully be a successfully operating webpage with stuff ab
 
 ![](IMG_1534.JPG)
 
+## Programming Successes!
+All of my future programming work / code will be showcased here
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
