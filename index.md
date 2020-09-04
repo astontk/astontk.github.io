@@ -1,8 +1,6 @@
 ## Tyler's Personal Website
 
-You can use the [editor on GitHub](https://github.com/astontk/astontk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to what will hopefully be a successfully operating webpage with stuff about me! Stick around and have some *internet* cookies while you're here
 
 ### Markdown
 
