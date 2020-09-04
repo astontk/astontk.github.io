@@ -1,8 +1,8 @@
 ## Tyler's Personal Website
 
-Welcome to what will hopefully be a successfully operating webpage with stuff about me! Stick around and have some cookies while you're here
+Welcome to what will hopefully be a successfully operating webpage with stuff about me & some of my coding / programming accomplishments in ISAT 252! Stick around and have some cookies while you're here
 
-Some interesting facts about me...
+## Some interesting facts about me...
 - I ride a Harley Davidson Street Bob
 - I have two Boston Terriers, Oreo & Harley (Yes, that's what we named him)
 - Junior ISAT major @ James Madison University
