@@ -14,7 +14,7 @@ Harley (the boy) is front and center, Oreo (the girl) is in the background
 
 Here's a video of my pride and joy, my Harley.... and before you ask, yes it is FAST!
 
-![](IMG_1533.MOV)
+![]()
 
 ### Markdown
 
