@@ -12,6 +12,10 @@ Harley (the boy) is front and center, Oreo (the girl) is in the background
 
 ![](IMG_E1667.JPG)
 
+Here's a video of my pride and joy, my Harley.... and before you ask, yes it is FAST!
+
+![](IMG_1533.MOV)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
