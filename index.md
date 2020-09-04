@@ -8,6 +8,8 @@ Some interesting facts about me...
 - Junior ISAT major @ James Madison University
 - I am an Eagle Scout Recipient
 
+![](IMG_1018.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
