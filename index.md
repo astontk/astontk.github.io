@@ -8,7 +8,9 @@ Some interesting facts about me...
 - Junior ISAT major @ James Madison University
 - I am an Eagle Scout Recipient
 
-![](IMG_1018.PNG)
+Harley (the boy) is front and center, Oreo (the girl) is in the background
+
+![](IMG_E1667.JPG)
 
 ### Markdown
 
