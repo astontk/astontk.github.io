@@ -19,4 +19,6 @@ Welcome to what will hopefully be a successfully operating webpage with stuff ab
 ![](DKWO5998.JPG)
 
 ## Programming Successes!
-All of my future programming work / code will be showcased here
+Here is the link to the github repository of a successful hello world program I made using using JavaScript
+
+https://github.com/astontk/hello-world-javascript2
