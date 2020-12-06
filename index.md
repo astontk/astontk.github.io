@@ -30,3 +30,7 @@ https://github.com/astontk/mpg2kpl-python
 This is a link to my favorite achievment in ISAT 252 so far, a Tetris Game!
 
 https://github.com/astontk/tetris_game_astontk
+
+This is a link to my in-progress new project, a jumping platformer made in Python!
+
+https://github.com/astontk/Basic_platformer_python
